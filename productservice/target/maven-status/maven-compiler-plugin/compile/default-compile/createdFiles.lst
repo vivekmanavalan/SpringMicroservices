@@ -1,0 +1,11 @@
+com\productservice\dto\InventoryResponse.class
+com\productservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\productservice\ProductserviceApplication.class
+com\productservice\dto\ProductRequest.class
+com\productservice\dto\ProductResponse.class
+com\productservice\repository\ProductDao.class
+com\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\productservice\service\ProductService.class
+com\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\productservice\model\Product.class
+com\productservice\controller\ProductController.class

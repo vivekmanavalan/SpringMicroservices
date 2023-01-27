@@ -1,0 +1,10 @@
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\config\WebClientConfig.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\entity\OrderLineItems.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\service\OrderService.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\dto\InventoryResponse.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\controller\OrderController.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\OrderServiceApplication.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\repository\OrderServiceDao.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\dto\OrderLineItemsDto.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\entity\Order.java
+E:\Work\Springboot\Microserviceparent\orderservice\src\main\java\com\orderservice\dto\OrderRequest.java
